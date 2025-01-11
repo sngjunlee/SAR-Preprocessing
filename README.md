@@ -1,4 +1,4 @@
-# SAR-Preprocessing
+## SAR-Preprocessing
 Python program for Sentinel-1 pre-processing using SNAP software.
 
 SNAP10 is recommended and snap-python must be configured.<br/>
@@ -19,6 +19,8 @@ Linux environment is recommended.
 * S1_Geocode.py is for geocode images.<br/>
   * output format: BEAM-DIMAP or GeoTiff
 
-# anaconda installation and create virtual-environments for Ubuntu-18.04
+## Anaconda3 installation for Ubuntu-18.04
 
-# snap-python configuration for Ubuntu-18.04
+## Create vitual-environments in Ananconda3
+
+## snap-python configuration for Ubuntu-18.04
