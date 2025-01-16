@@ -22,5 +22,17 @@ Linux environment is recommended.
 ## Anaconda3 installation for Ubuntu-18.04
 
 ## Create vitual-environments in Ananconda3
+You can create virtual environment by typing the code below in the anaconda prompt<br/>
+<br/>
+conda create -n [env-name] python==[python-version]
+- ex) conda create -n env-test python==3.10
+
+You can check the created environments wiht the code below.<br/>
+<br/>
+conda info --envs<br/>
+<br/>
+Locate the snappy_for_oriburi.py in the path below.<br/>
+"/home/username/anaconda3/envs/env-test/lib/python3.10/site-packages/"
+
 
 ## snap-python configuration for Ubuntu-18.04
